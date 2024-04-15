@@ -41,3 +41,22 @@
     margin: 1px;
     padding: 10px;
 }
+.userin{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:green;
+    border-radius: 2px;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+.userout{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:red;
+    border-radius: 2px;
+    color: aliceblue;
+    padding: 2px;
+    text-align: center;
+    margin: 10;
+    
+}

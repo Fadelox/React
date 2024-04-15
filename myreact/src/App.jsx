@@ -1,16 +1,16 @@
 import React from 'react'
 
-import Card from './old/Card'
-import Student from './Student'
+import User from './User'
 
 function App() {
   return (
     <>
-    <Student name="FAdel" age={5} hier={true}></Student>
- 
+     <User name="fadel" user={true}/>
     
     </>
   )
+  
+  
 }
 
 export default App
