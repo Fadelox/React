@@ -1,5 +1,6 @@
 import React from 'react'
-import Pic from './assets/bag2.jpg'
+import Pic from '../assets/bag2.jpg'
+
 
 function Card() {
   return (

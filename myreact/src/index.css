@@ -24,3 +24,20 @@
     margin: 0;
     color: rgb(2, 2, 3);
 }
+.student{
+    max-width: 250px;
+    text-align: center;
+    border: solid cornflowerblue;
+    border-radius: 2px;
+    padding: 2px;
+    margin: 0px;
+
+
+}
+.student p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    font-size: 2em;
+    margin: 1px;
+    padding: 10px;
+}

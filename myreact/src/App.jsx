@@ -1,12 +1,13 @@
 import React from 'react'
 
-import Card from './Card'
+import Card from './old/Card'
+import Student from './Student'
 
 function App() {
   return (
     <>
-    <Card></Card>
-    <Card></Card>
+    <Student name="FAdel" age={5} hier={true}></Student>
+ 
     
     </>
   )
