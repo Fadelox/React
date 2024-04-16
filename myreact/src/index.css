@@ -74,3 +74,30 @@
     margin: 0;
     font-size: 2em;
 }
+.count{
+    text-align: center;
+    
+    
+}
+.decrement{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.rest{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.increment{
+    background-color:yellow;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.number{
+    font-style: bold;
+    font-size: 200%;
+}

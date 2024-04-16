@@ -1,5 +1,5 @@
 import React from 'react'
-import Uses from './Usestat'
+import Uses from './old/Usestat'
 
 
 
