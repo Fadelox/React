@@ -1,5 +1,5 @@
 import React from 'react'
-import Click from './Click'
+import Pic from './Pic'
 
 
 
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <Click></Click>
+    <Pic></Pic>
     </>
   )
   
