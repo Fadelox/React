@@ -101,3 +101,12 @@
     font-style: bold;
     font-size: 200%;
 }
+.all  {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.color{
+    max-width: 80px;
+    
+}

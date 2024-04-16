@@ -1,5 +1,6 @@
 import React from 'react'
-import Change from './Change'
+import Change from './old/Change'
+import Colore from './Colore'
 
 
 
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-    <Change></Change>
+    <Colore></Colore>
     </>
   )
   
