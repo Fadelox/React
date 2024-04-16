@@ -1,5 +1,5 @@
 import React from 'react'
-import Pic from './Pic'
+import Uses from './Usestat'
 
 
 
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <Pic></Pic>
+    <Uses></Uses>
     </>
   )
   
