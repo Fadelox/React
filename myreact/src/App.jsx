@@ -1,5 +1,5 @@
 import React from 'react'
-import Uses from './old/Usestat'
+import Change from './Change'
 
 
 
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <Uses></Uses>
+    <Change></Change>
     </>
   )
   
