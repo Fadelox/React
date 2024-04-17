@@ -1,5 +1,5 @@
 import React from 'react'
-import Updobj from './Updobj'
+import Updarray from './Updarray'
 
 
 
@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <Updobj></Updobj>
+    <Updarray></Updarray>
     </>
   )
   
