@@ -108,5 +108,9 @@
 }
 .color{
     max-width: 80px;
+    padding: 20px;
+    border: solid yellow;
+    border-radius: 10px;
+    margin: 20px;
     
 }
